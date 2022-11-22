@@ -1,2 +1,2 @@
 # sitecolegiojana
-Site do Colégio Estadual do Campo Aurélio Buarque de Holanda
+Site do Colegio Estadual do Campo Aurelio Buarque de Holanda
